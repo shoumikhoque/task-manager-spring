@@ -1,6 +1,7 @@
 package prime.bank.taskmanager.controller;
 
 import org.springframework.http.ResponseEntity;
+import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 import prime.bank.taskmanager.dto.Task;
 import prime.bank.taskmanager.service.TaskService;
@@ -20,7 +21,7 @@ public class TaskController {
         return taskService.getAllTasks();
     }
     @PostMapping
-    private ResponseEntity<String> saveTask(Task task) {
+    private ResponseEntity<String> saveTask( @RequestBody Task task) {
         taskService.saveTask(task);
         return ResponseEntity.ok("Task has been saved successfully");
     }
