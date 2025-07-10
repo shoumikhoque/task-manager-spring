@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7af9d9d2-d01a-461c-be2c-3499552a2ed5" name="Changes" comment="task manager backend spring">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.gradle/8.14.2/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.gradle/8.14.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.gradle/8.14.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.gradle/8.14.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.gradle/8.14.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/src/main/java/prime/bank/taskmanager/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/src/main/java/prime/bank/taskmanager/TaskManagerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/src/main/java/prime/bank/taskmanager/TaskStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/src/main/java/prime/bank/taskmanager/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/src/main/java/prime/bank/taskmanager/dao/TaskStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/src/main/java/prime/bank/taskmanager/dto/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/src/main/java/prime/bank/taskmanager/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/src/test/java/prime/bank/taskmanager/TaskManagerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.gradle/8.14.2/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.gradle/8.14.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.gradle/8.14.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.gradle/8.14.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.gradle/8.14.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.idea/task-manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/build/tmp/bootWar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/src/main/java/prime/bank/taskmanager/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/src/main/java/prime/bank/taskmanager/TaskManagerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/src/main/java/prime/bank/taskmanager/TaskStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/src/main/java/prime/bank/taskmanager/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/src/main/java/prime/bank/taskmanager/dao/TaskStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/src/main/java/prime/bank/taskmanager/dto/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/src/main/java/prime/bank/taskmanager/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks/task-manager/src/test/java/prime/bank/taskmanager/TaskManagerApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2zfc8b4e996zsoTil4HSLXMOnAd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/shoumik/Projects/nobopay&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="prime-bank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="prime-bank" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7af9d9d2-d01a-461c-be2c-3499552a2ed5" name="Changes" comment="" />
+      <created>1752125410758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752125410758</updated>
+      <workItem from="1752125412588" duration="346000" />
+      <workItem from="1752125761508" duration="88000" />
+      <workItem from="1752125852539" duration="18000" />
+      <workItem from="1752126294865" duration="80000" />
+    </task>
+    <task id="LOCAL-00001" summary="task manager backend spring">
+      <option name="closed" value="true" />
+      <created>1752125465066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752125465066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task manager backend spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="task manager backend spring" />
+  </component>
+</project>
